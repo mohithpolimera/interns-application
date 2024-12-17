@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+body {
+    background-image: url('https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202309/kochi-metro-220147579-16x9.png?VersionId=AJzZ5F_hKS7TVKZgDY.PrE4uVIumN7kg&size=690:388');
+    background-repeat:no-repeat; 
+    background-size: 100vw 100vh;
+    background-color:#deeeff;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+}
+.content_box
+{
+    padding: 20px;
+}
